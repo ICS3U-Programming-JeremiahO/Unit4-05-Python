@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Created By: Jeremiah Omoike
 # Date: November 13 2022
-# This program
+# This program asks user for how many numbers they would like to add then calculates and displays the sum of numbers.
 
 
 def main():
